@@ -12,13 +12,13 @@ btn.addEventListener('click', function() {
         // Змінюємо на англійську
         title.textContent = "Welcome!";
         desc.textContent = "This is an example of a page with an interface language switcher.";
-        btn.textContent = "Переключити на українську";
+        btn.textContent = "Переключити на українську мову";
         isUkrainian = false;
     } else {
         // Змінюємо назад на українську
         title.textContent = "Ласкаво просимо!";
         desc.textContent = "Це приклад сторінки з можливістю зміни мови інтерфейсу.";
-        btn.textContent = "Switch to English";
+        btn.textContent = "Switch to English language";
         isUkrainian = true;
     }
     
