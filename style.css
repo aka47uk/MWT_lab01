@@ -4,12 +4,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f4f8;
+    background-color: #007ffd;
     margin: 0;
 }
 
 .container {
-    background: white;
+    background: purple;
     padding: 40px;
     border-radius: 15px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
